@@ -19,4 +19,4 @@ For an explanation of the commands, please see the wiki at [https://docs.carl.gg
 
 # Self hosting
 
-Please don't. At least not now! The code is massively outdated and shares very little semblence with the live bot. This will most likely change in the future, but until then, please invite the version that I host.
+Please don't. At least not now! The code is massively outdated and shares very little resemblence with the live bot. This will most likely change in the future, but until then, please invite the version that I host.
